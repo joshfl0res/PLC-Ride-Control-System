@@ -1,0 +1,15 @@
+# CODESYS user/options files
+*.opt
+
+# CODESYS build/runtime files
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+
+# CODESYS temporary files
+*.~u
+
+# macOS metadata
+._*
+.DS_Store
